@@ -18,8 +18,7 @@ This project transforms your audio or video files into polished, publish-ready a
 
 ## 🧠 Project Workflow
 
-```mermaid
-graph LR
+```
 A[Audio/Video Upload] --> B[Transcription (Whisper/AssemblyAI)]
 B --> C[Article Generator (Gemini)]
 C --> D[Style Enforcer]
