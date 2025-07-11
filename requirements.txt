@@ -1,0 +1,7 @@
+streamlit
+whisper
+moviepy
+google-generativeai
+python-dotenv
+ffmpeg-python
+textstat
